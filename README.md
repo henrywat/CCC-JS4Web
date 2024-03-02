@@ -19,11 +19,11 @@ JavaScript, learning a new software/framework, etc.</p>
 
 ---
 
-[Index page](/pages/index.png)
+## [Index page](/pages/index.png)
 ![Index page](/pages/index.png)
 
-[Fly page](/pages/fly.png)
+## [Fly page](/pages/fly.png)
 ![Fly page](/pages/fly.png)
 
-[Moon page](/pages/moon.png)
+## [Moon page](/pages/moon.png)
 ![Moon page](/pages/moon.png)
